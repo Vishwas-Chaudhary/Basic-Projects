@@ -10,7 +10,7 @@ A simple checkers game where the player plays against an AI opponent. The AI use
 - AI powered by the Minimax algorithm with a single difficulty level
 
 ## Installation
-1. Clone the repository:
-   ```bash
+Clone the repository:
+```bash
    git clone https://github.com/Vishwas-Chaudhary/Basic-Projects.git
 
