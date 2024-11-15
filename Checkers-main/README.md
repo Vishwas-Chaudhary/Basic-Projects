@@ -1,5 +1,7 @@
 # Checkers Game (Player vs AI)
 
+![Welcome GIF](https://i.gifer.com/7CGo.mp4)
+
 ## Overview
 A simple checkers game where the player plays against an AI opponent. The AI uses the Minimax algorithm to determine the best possible moves.
 
