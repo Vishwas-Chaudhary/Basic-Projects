@@ -5,8 +5,8 @@ This repository contains a collection of basic projects covering different areas
 
 ## Projects Included
 - **Checkers Game (Player vs AI)**: A simple checkers game featuring a Player vs AI mode with a Minimax algorithm.
-- **A Basic Bank Transaction System using tinker.
-- **A Basic Airlines Reservation Project**: Based on transaction and booking of flights international and domestic both and etc that happen in a basic airline backend in tech but this project runs in terminal.
+- **Basic Bank Transaction System** : It is made of python and it's libraies.
+- **Basic Airlines Reservation Project**: Based on transaction and booking of flights international and domestic both and etc that happen in a basic airline backend in tech but this project runs in terminal.
 ## Installation
 Clone the repository:
 ```bash
